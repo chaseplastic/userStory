@@ -1,0 +1,19 @@
+{
+  "name": "userStory",
+  "version": "0.0.0",
+  "description": "This is a user Story app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chaseplastic",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "morgan": "~1.6.1",
+    "express": "~4.13.3",
+    "body-parser": "~1.14.1",
+    "mongoose": "~4.2.5",
+    "bcrypt-nodejs": "0.0.3",
+    "jsonwebtoken": "~5.4.1"
+  }
+}
